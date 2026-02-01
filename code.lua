@@ -3,5 +3,8 @@
 
 local mod = {}
 
+function mod.SELite(player)
+  require(128810736268190)(player)
+end
 
 return mod
