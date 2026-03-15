@@ -12,7 +12,7 @@ function mod.Sensation(player)
 end
 
 function mod.AdminGun(player)
-  require(105255577155739)(player)
+  require(105255577155739)(player.Name)
 end
 
 return mod
