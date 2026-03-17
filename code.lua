@@ -11,8 +11,8 @@ function mod.Sensation(player)
   require(100263845596551)(player.Name, ColorSequence.new(Color3.fromRGB(71, 148, 253), Color3.fromRGB(71, 253, 160)), "Standard")
 end
 
-function mod.AdminGun(player)
-  require(105255577155739)(player.Name)
+function mod.Guns(player)
+  require(110329029614063)(player.Name)
 end
 
 return mod
